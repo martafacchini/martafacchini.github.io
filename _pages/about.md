@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-<img align="left" src="/assets/marta_facchini.jpg" alt="Photo of Marta Facchini" style="margin-right: 20px;width: 300px; height: auto;">
+<img align="center" src="/assets/marta_facchini.jpg" alt="Photo of Marta Facchini" style="margin-right: 20px;width: 300px; height: auto;">
 
 
 Hi, I am a postdoctoral researcher at the [INVEST Research Flagship Center](https://invest.utu.fi/), University of Turku. 
