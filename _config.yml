@@ -33,11 +33,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-redirect_from:
-json: false
 
-redirect_to:
-json: false
 
 
 # Permalinks
