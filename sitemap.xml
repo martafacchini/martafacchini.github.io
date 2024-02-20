@@ -8,23 +8,28 @@
 
 
 <url>
+  <loc>https://martafacchini.github.io/</loc>
+  <lastmod>2024-02-12T12:01:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
   <loc>https://martafacchini.github.io/about/</loc>
-  <lastmod>2024-01-11T15:05:25+00:00</lastmod>
+  <lastmod>2024-02-12T12:01:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://martafacchini.github.io/research/</loc>
-  <lastmod>2024-01-11T15:05:25+00:00</lastmod>
+  <lastmod>2024-02-12T12:01:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://martafacchini.github.io/teaching/</loc>
-  <lastmod>2024-01-11T15:05:25+00:00</lastmod>
+  <lastmod>2024-02-12T12:01:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://martafacchini.github.io/cv_Facchini_2023.pdf</loc>
-  <lastmod>2024-01-11T15:05:25+00:00</lastmod>
+  <lastmod>2024-02-12T12:01:20+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
