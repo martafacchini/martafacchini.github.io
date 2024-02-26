@@ -16,7 +16,7 @@ Previously, I was a PhD student in Sociology at the Centre for Research on Socia
 
 I study social inequality: how it is reproduced and how we can help reduce it. In my dissertation, I have investigated how parents' employment uncertainty affects their children's development using the French birth cohort [Elfe](https://www.elfe-france.fr/en/). I am interested in analysing inequality of educational opportunity, labour market, and health outcomes. I am also keen on evaluating the impact of public policies on inequalities throughout the life-course. 
 
-You can reach me at <a href="mailto:marta.facchini@sciencespo.fr">marta.facchini@utu.fi</a>
+You can reach me at <a href="mailto:marta.facchini@utu.fi">marta.facchini@utu.fi</a>
 
 
 
