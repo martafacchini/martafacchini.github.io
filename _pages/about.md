@@ -9,7 +9,7 @@ permalink: /about/
 <img align="left" src="/assets/marta_facchini.jpg" alt="Photo of Marta Facchini" style="margin-right: 20px;width: 300px; height: auto;">
 
 
-Hi, I am a postdoctoral researcher at the [INVEST Research Flagship Center](https://invest.utu.fi/), University of Turku. 
+Hi, I am a postdoctoral researcher at the [INVEST Research Flagship Centre](https://invest.utu.fi/), University of Turku. 
 
 Previously, I was a PhD student in Sociology at the Centre for Research on Social Inequalities ([CRIS](https://www.sciencespo.fr/osc/en.html)), Sciences Po, and at the French Institute for Demographic Studies ([INED](https://www.ined.fr/en/)). I was also a Lecturer at the [École Normale Supérieure](https://www.ens.psl.eu/en), and I graduated in Sociology and Social Research (M.A.) from the [University of Trento](https://www.sociologia.unitn.it/en). 
 
