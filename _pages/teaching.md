@@ -8,7 +8,7 @@ permalink: /teaching/
 
 - _Panel Regression_, University of Turku. Lecturer. Spring 2025
 
-- _Comparative Welfare States_, University of Turku. Lecturer. Fall 2024
+- _Comparative Welfare States_, University of Turku. Lecturer. Fall 2024, 2025
 
 - _Inferential and Causal Statistics_, École normale supérieure - Paris. Lecturer. Spring 2023
 
