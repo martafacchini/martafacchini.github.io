@@ -16,7 +16,7 @@ Facchini, M., Triventi, M. & Vergolini, L.(2020). Do Grants Improve the Outcomes
 
 ## In Preparation
 
-Facchini,M., Panico L. & Barone, C. "Is parents’ employment uncertainty linked to children’s development? Analyzing patterns and mechanisms in France." [https://doi.org/10.31235/osf.io/8ex5r_v1](Working Paper)
+Facchini,M., Panico L. & Barone, C. "Is parents’ employment uncertainty linked to children’s development? Analyzing patterns and mechanisms in France." [Working Paper](https://doi.org/10.31235/osf.io/8ex5r_v1)
 
 "Employment uncertainty and birth outcomes: a mediation analysis" (with Lidia Panico and Carlo Barone)
 
