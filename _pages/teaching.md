@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## Master and Phd
+## Phd and Master
 
 - _Advanced Causal Inference_, University of Turku. Lecturer. Spring 2026
   
