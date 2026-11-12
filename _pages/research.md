@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Publications
 
-Facchini, M., Panico, L., & Barone, C.(2026). "Is parents’ employment uncertainty linked to children's development? Analysing patterns and mechanisms in France". *European Sociological Review, online first*. [doi 0.1093/esr/jcag042](https://doi.org/10.1093/esr/jcag042)
+Facchini, M., Panico, L., & Barone, C. (2026). "Is parents’ employment uncertainty linked to children's development? Analysing patterns and mechanisms in France". *European Sociological Review, online first*. [doi 0.1093/esr/jcag042](https://doi.org/10.1093/esr/jcag042)
 
 Schindler, S., Bar-Haim, E., Barone, C., Fels Birkelund, J., Boliver, V., Capsada-Munsech, Q., Facchini, M., et al. (2023). "Educational tracking and social inequalities in long-term labor market outcomes: Six countries in comparison". *International Journal of Comparative Sociology, online first*. [doi 10.1177/00207152231151390](https://doi.org/10.1177/00207152231151390)
 
